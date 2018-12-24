@@ -1,4 +1,4 @@
-### vue框架写移动端前端开发+node.js搭建后端服务器+mysql数据库
+### vue框架移动端开发+node.js搭建后端服务器+mysql数据库
 
 ##### vue-cli+webpack搭建前端项目框架
 
